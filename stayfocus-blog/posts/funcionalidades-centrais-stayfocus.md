@@ -1,3 +1,14 @@
+---
+title: "Mergulhe nas Funcionalidades que Tornam o StayFocus seu Aliado na Produtividade"
+date: "2025-05-07"
+author: "Carlos Andrade"
+excerpt: "Explore em detalhes as funcionalidades centrais que formam a espinha dorsal da plataforma StayFocus."
+image: "https://via.placeholder.com/600x400.png?text=funcionalidades-stayfocus.jpg"
+category: "Produtividade"
+tags: ["stayfocus", "produtividade", "funcionalidades"]
+featured: false
+readingTime: "10 min de leitura"
+---
 # Mergulhe nas Funcionalidades que Tornam o StayFocus seu Aliado na Produtividade
 
 O StayFocus se destaca no mercado de aplicações de produtividade não apenas por sua abrangência, mas principalmente pela forma como suas funcionalidades foram cuidadosamente projetadas para trabalhar em harmonia. Neste post, vamos explorar em detalhes as funcionalidades centrais que formam a espinha dorsal da plataforma.

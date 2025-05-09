@@ -1,3 +1,14 @@
+---
+title: "StayFocus: Uma Plataforma Completa para Maximizar sua Produtividade e Estudos"
+date: "2025-05-06"
+author: "Equipe StayFocus"
+excerpt: "Apresentamos o StayFocus: uma plataforma inovadora projetada para transformar completamente sua experiência de produtividade e estudos."
+image: "https://via.placeholder.com/600x400.png?text=apresentando-stayfocus.jpg"
+category: "Geral"
+tags: ["stayfocus", "produtividade", "estudos", "introdução"]
+featured: false
+readingTime: "12 min de leitura"
+---
 # StayFocus: Uma Plataforma Completa para Maximizar sua Produtividade e Estudos
 
 Em um mundo repleto de distrações e demandas constantes por nossa atenção, manter o foco e a produtividade tornou-se um desafio significativo. Se você é estudante, concurseiro ou um profissional que busca aprimorar sua gestão de tempo e foco, apresentamos o **StayFocus**: uma plataforma inovadora projetada para transformar completamente sua experiência de produtividade e estudos.
